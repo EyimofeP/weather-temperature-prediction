@@ -2,7 +2,7 @@
 
 * Created a tool that predict apparent temperature **(RMSE ~ 0.9886 (C))** of a particular location based off some features gotten from historical data
 
-* Got a Test Accuracy of **98%**
+* Got a Test Accuracy of **99.07%**
 
 * Engineered features by encoding categorical columns and parsing out date
 
@@ -52,7 +52,7 @@ I used Root Mean Squared Error cause the data had some outliers and it was prefe
 
 The model performed well with the following with the following metrics
 * RMSE - 0.9886
-* Test Accuracy - 98%
+* Test Accuracy - 99.07%
 
 
 
