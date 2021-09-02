@@ -10,10 +10,10 @@
 
 ___
 ### Code and Resources Used
-Python Version: 3.8
-Packages: pandas, numpy, matplotlib, seaborn, plotly, sklearn
+* Python Version: 3.8
+* Packages: pandas, numpy, matplotlib, seaborn, plotly, sklearn
 * Packages can be installed by running the notebook
-Dataset: [Weather Temperature Dataset](https://www.kaggle.com/budincsevity/szeged-weather "Gotten from Kaggle)
+* Dataset: [Weather Temperature Dataset](https://www.kaggle.com/budincsevity/szeged-weather "Gotten from Kaggle")
 
 ___
 ### Features
