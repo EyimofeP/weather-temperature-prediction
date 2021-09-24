@@ -48,7 +48,7 @@ I used **Linear Regression (Least Squares) and Decision Trees Regressor** as the
 ___
 
 ### Model Performance
-I used Root Mean Squared Error cause the data had some outliers and it was preferred
+I used Root Mean Squared Error cause it was preferred
 
 The model performed well with the following with the following metrics
 * For Linear Regression
